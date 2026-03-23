@@ -12,7 +12,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/kriSHah1010/stock-ai-dashboard)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kriSHah1010/stock-ai-dashboard)
 
-
+ 
 An interactive **financial analytics dashboard** that analyzes stocks and cryptocurrencies using **technical indicators and machine learning forecasting**.
 
 The application allows users to explore market trends, visualize indicators like **RSI and MACD**, and generate **AI-based 7-day price forecasts**.
